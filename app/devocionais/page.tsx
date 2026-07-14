@@ -1,5 +1,0 @@
-import type { Metadata } from 'next';
-import { PageHero } from '@/components/PageHero';
-
-export const metadata: Metadata = { title: 'Devocionais' };
-export default function DevocionaisPage() { return <><PageHero eyebrow="Devocionais" title="Palavra, reflexão e prática" description="Uma área preparada para mensagens breves, roteiros de culto doméstico e estudos devocionais." /><section className="section-pad"><div className="site-container max-w-4xl rounded-[2rem] border border-[#f3c969]/25 bg-[linear-gradient(135deg,rgba(123,25,33,.16),rgba(255,255,255,.025))] p-8 md:p-12"><p className="text-xs font-black uppercase tracking-[.2em] text-[#f3c969]">Modelo de publicação</p><h2 className="display-font mt-5 text-4xl text-[#fff1bd]">Permanecer firme quando tudo parece mudar</h2><p className="mt-5 leading-8 text-[#b8aea3]">Use esta página como índice para seus devocionais. Cada novo texto pode ganhar uma rota própria no diretório <code className="rounded bg-black/35 px-2 py-1">app/devocionais</code>.</p></div></section></>; }
