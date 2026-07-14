@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Atualize a URL abaixo se mudar o domínio.
+Sitemap: https://revmontarroyos-ux.github.io/Sodoma-gomorra/sitemap.xml

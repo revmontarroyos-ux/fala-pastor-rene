@@ -1,0 +1,8 @@
+PASSO 1 — Abra config/site.ts.
+PASSO 2 — Substitua https://pay.kiwify.com.br/SEU-CODIGO pelo checkout real.
+PASSO 3 — Atualize e-mail e redes sociais.
+PASSO 4 — Envie todos os arquivos ao GitHub.
+PASSO 5 — Em Settings > Pages, selecione GitHub Actions.
+PASSO 6 — Aguarde a publicação na aba Actions.
+
+IMPORTANTE: não envie apenas o ZIP. Descompacte e envie o conteúdo completo, inclusive a pasta .github.
